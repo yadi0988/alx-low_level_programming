@@ -1,9 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/* more headers goes there */
+
 /**
- * main - prints if the number is positive,negative or 0
- * return: Always 0
+ * main - Entry point
+ * Description - prints if random generated number is +tive, zero or -tive
+ * return: Always 0 (Success)
  */
 int main(void)
 {
